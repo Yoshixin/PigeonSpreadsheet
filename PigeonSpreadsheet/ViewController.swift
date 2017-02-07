@@ -18,9 +18,6 @@ class ViewController: UIViewController {
         
         let spreadsheetView: MMSpreadsheetView = MMSpreadsheetView(numberOfHeaderRows: 15, numberOfHeaderColumns: 12, frame: self.view.bounds)
         
-        spreadsheetView.delegate = self
-        spreadsheetView.dataSource = self
-        
         self.view.addSubview(spreadsheetView)
         
         
