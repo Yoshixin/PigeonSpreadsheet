@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>MMSpreadsheetView.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PigeonSpreadsheet.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PigeonSpreadsheetTests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+		<key>Pods-PigeonSpreadsheetUITests.xcscheme</key>
+		<dict>
+			<key>isShown</key>
+			<false/>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>475311EE59AEB6E097C20BD717330974</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>5C51C4AC248966F8C9748E90E61C529C</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>63EF4CC65FBDD3F7340FAA1A0E5C02BE</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>F09AB7A4EAD9B20E92A87F69875A630E</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

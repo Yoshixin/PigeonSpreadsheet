@@ -1,0 +1,12 @@
+PODS:
+  - MMSpreadsheetView (0.0.3)
+
+DEPENDENCIES:
+  - MMSpreadsheetView (~> 0.0.3)
+
+SPEC CHECKSUMS:
+  MMSpreadsheetView: 93ba790e822cefc6126299d22319d5f1b44abd01
+
+PODFILE CHECKSUM: 8b173b47cbe3a66ba60bf7ff7bf3a9bb1fad1fec
+
+COCOAPODS: 1.1.1
