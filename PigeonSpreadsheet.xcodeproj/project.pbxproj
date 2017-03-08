@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		3FA879751E6FB18500ACAFF5 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3FF6DE9C1E49A4B90037AF5A /* Main.storyboard */; };
 		3FF6DE991E49A4B90037AF5A /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FF6DE981E49A4B90037AF5A /* AppDelegate.swift */; };
 		3FF6DE9B1E49A4B90037AF5A /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3FF6DE9A1E49A4B90037AF5A /* ViewController.swift */; };
 		3FF6DEA01E49A4B90037AF5A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3FF6DE9F1E49A4B90037AF5A /* Assets.xcassets */; };
@@ -286,6 +287,7 @@
 				3FF6DEA31E49A4B90037AF5A /* LaunchScreen.storyboard in Resources */,
 				3FF6DEA01E49A4B90037AF5A /* Assets.xcassets in Resources */,
 				3FF6DEC71E49A9FC0037AF5A /* hoursSpent.txt in Resources */,
+				3FA879751E6FB18500ACAFF5 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
